@@ -64,17 +64,12 @@ Text and image features are processed independently and merged using `sample_id`
 amazon-ml-challenge/
 │
 ├── assets/
-│   ├── hand_craft_corr.jpg          # Handcrafted feature correlation
-│   └── TF-IDF_corr.jpg              # TF-IDF feature correlation
+│   ├── hand_craft_feature_corr.jpg          # Handcrafted feature correlation
+│   └── TF_IDF_feature_corr.jpg              # TF-IDF feature correlation
 │
 ├── notebook/
 │   └── [main notebook]              # Feature engineering + model training
 │
-├── data/                             # (not uploaded due to size)
-│   ├── train.csv
-│   ├── test.csv
-│   ├── image_features.csv
-│   └── test_image_features.csv
 │
 └── README.md
 ```
@@ -96,8 +91,8 @@ amazon-ml-challenge/
 ## 📈 Feature Correlation Analysis
 
 <p align="center">
-  <img src="assets/hand_craft_corr.jpg" alt="Handcrafted feature correlation" width="45%"/>
-  <img src="assets/TF-IDF_corr.jpg" alt="TF-IDF feature correlation" width="45%"/>
+  <img src="assets/hand_craft_feature_corr.jpg" alt="Handcrafted feature correlation" width="45%"/>
+  <img src="assets/TF_IDF_Feature_Corr.jpg" alt="TF-IDF feature correlation" width="45%"/>
 </p>
 
 **Key Observations:**
