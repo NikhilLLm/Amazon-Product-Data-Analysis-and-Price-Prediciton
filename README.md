@@ -91,7 +91,7 @@ amazon-ml-challenge/
 ## 📈 Feature Correlation Analysis
 
 <p align="center">
-  <img src="assets/hand_craft_feature_corr.jpg" alt="Handcrafted feature correlation" width="45%"/>
+  <img src="assets/hand_craft_feature_corr.png" alt="Handcrafted feature correlation" width="45%"/>
   <img src="assets/TF_IDF_Feature_Corr.jpg" alt="TF-IDF feature correlation" width="45%"/>
 </p>
 
